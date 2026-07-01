@@ -44,21 +44,7 @@ Christchurch, New Zealand
 NZTM2000 (EPSG:2193)
 
 ## Workflow
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Road Network Preparation
-      ↓
-Accessibility Analysis
-      ↓
-Walking Isochrone Generation
-      ↓
-Weighted Overlay Analysis
-      ↓
-Housing Suitability Classification
-      ↓
-Map Production & Statistics
+<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/6fd96d2f-93b4-45e4-87f4-3a144e05366f" />
 
 ## Methodology
 #### 1. Data preprocessing
