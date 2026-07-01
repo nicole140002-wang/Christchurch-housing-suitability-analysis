@@ -44,7 +44,7 @@ Christchurch, New Zealand
 NZTM2000 (EPSG:2193)
 
 ## Workflow
-<img width="2000" height="2828" alt="image" src="https://github.com/user-attachments/assets/6fd96d2f-93b4-45e4-87f4-3a144e05366f" />
+<img width="1106" height="638" alt="workflow_412" src="https://github.com/user-attachments/assets/2f444498-ccc0-46f3-a4ff-150df0ffba24" />
 
 ## Methodology
 #### 1. Data preprocessing
